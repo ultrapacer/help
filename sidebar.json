@@ -1,0 +1,41 @@
+[
+  {
+    "route": {
+      "name": "dashboard"
+    },
+    "file": "dashboard1"
+  },
+  {
+    "route": {
+      "name": "dashboard",
+      "params": {
+        "view": "courses"
+      }
+    },
+    "file": "dashboard-courses"
+  },
+  {
+    "route": {
+      "name": "dashboard",
+      "params": {
+        "view": "runs"
+      },
+      "query": {
+        "time": "past"
+      }
+    },
+    "file": "dashboard-pastruns"
+  },
+  {
+    "route": {
+      "name": "dashboard",
+      "params": {
+        "view": "runs"
+      },
+      "query": {
+        "time": ""
+      }
+    },
+    "file": "dashboard-runs"
+  }
+]
