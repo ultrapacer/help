@@ -25,7 +25,7 @@ the sidebar will show all matching items in order.
     },
     {
       "route": {
-        "name": "dashboard",
+        "page": "dashboard",
         "query": {
           "time": "past",
           "view": "runs"
