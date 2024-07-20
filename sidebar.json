@@ -8,7 +8,7 @@
   {
     "route": {
       "name": "dashboard",
-      "params": {
+      "query": {
         "view": "courses"
       }
     },
@@ -17,11 +17,9 @@
   {
     "route": {
       "name": "dashboard",
-      "params": {
-        "view": "runs"
-      },
       "query": {
-        "time": "past"
+        "time": "past",
+        "view": "runs"
       }
     },
     "file": "dashboard-pastruns"
@@ -29,10 +27,8 @@
   {
     "route": {
       "name": "dashboard",
-      "params": {
-        "view": "runs"
-      },
       "query": {
+        "view": "runs",
         "time": ""
       }
     },
