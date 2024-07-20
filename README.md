@@ -24,14 +24,12 @@ the sidebar will show all matching items in order.
   ...
     },
     {
-      "route": {
-        "page": "dashboard",
-        "query": {
-          "time": "past",
-          "view": "runs"
-        }
+      "page": "dashboard",
+      "query": {
+        "time": "past",
+        "view": "runs"
       },
-      "file": "dashboard-pastruns"
+      "file": "dashboard-pastruns.md"
     },
   ...
 ```
