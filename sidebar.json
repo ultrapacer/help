@@ -1,37 +1,33 @@
 [
   {
-    "route": {
-      "name": "dashboard"
-    },
-    "file": "dashboard1"
+    "page": "dashboard",
+    "file": "dashboard1.md"
   },
   {
-    "route": {
-      "name": "dashboard",
-      "query": {
-        "view": "courses"
-      }
+    "page": "dashboard",
+    "query": {
+      "view": "courses"
     },
-    "file": "dashboard-courses"
+    "file": "dashboard-courses.md"
   },
   {
-    "route": {
-      "name": "dashboard",
-      "query": {
-        "time": "past",
-        "view": "runs"
-      }
+    "page": "dashboard",
+    "query": {
+      "time": "past",
+      "view": "runs"
     },
-    "file": "dashboard-pastruns"
+    "file": "dashboard-pastruns.md"
   },
   {
-    "route": {
-      "name": "dashboard",
-      "query": {
-        "view": "runs",
-        "time": ""
-      }
+    "page": "dashboard",
+    "query": {
+      "view": "runs",
+      "time": ""
     },
-    "file": "dashboard-runs"
+    "file": "dashboard-runs.md"
+  },
+  {
+    "form": "plan",
+    "file": "plan-form.md"
   }
 ]
