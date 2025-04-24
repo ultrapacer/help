@@ -1,5 +1,5 @@
-The chart on the course page now shows the terrain difficulty throughout the course!
+**View terrain on the course page!**
+
+Get insight into your paces by viewing the terrain type and difficulty factor in the chart.
 
 ![Terrain Linetypes](../img/terrain-linetypes.gif)
-
-Hover your mouse over any part of the chart and it will also tell you what terrain type has been input for that section.
