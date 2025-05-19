@@ -1,7 +1,10 @@
 [
   {
     "date": "2025-04-23",
-    "file": "terrain-lines.md",
-    "title": "Terrain difficulty linetypes"
+    "file": "terrain-lines.md"
+  },
+  {
+    "date": "2025-05-19",
+    "file": "controls.md"
   }
 ]

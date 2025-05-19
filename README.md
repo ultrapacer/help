@@ -35,3 +35,8 @@ the sidebar will show all matching items in order.
 ```
 
 3. the docs will appear in the same order that they are in the .json file
+
+### images
+
+- size 600x300 pixels
+- gifs should loop forever with 1s dwell on first frame and 5000s dwell on last frame
