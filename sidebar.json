@@ -4,15 +4,18 @@
     "query": {
       "mode": "live-runner"
     },
-    "file": "live-runnermode-modes.md"
+    "file": "live-runnermode-modes.md",
+    "title": "Live Runnner Mode"
   },
   {
     "page": "course",
-    "file": "live-runnermode-2charts.md"
+    "file": "live-runnermode-2charts.md",
+    "title": "Charts"
   },
   {
     "page": "course",
-    "file": "live-runnermode-3controls.md"
+    "file": "live-runnermode-3controls.md",
+    "title": "Controls"
   },
   {
     "page": "dashboard",
