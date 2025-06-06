@@ -1,6 +1,17 @@
 [
   {
     "page": "course",
+    "query": {
+      "mode": "live-runner"
+    },
+    "file": "live-runnermode-modes.md"
+  },
+  {
+    "page": "course",
+    "file": "live-runnermode-2charts.md"
+  },
+  {
+    "page": "course",
     "file": "live-runnermode-3controls.md"
   },
   {
