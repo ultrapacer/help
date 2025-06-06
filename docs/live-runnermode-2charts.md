@@ -35,13 +35,13 @@ The x-axis shows distance and the y-axis represents the pace in distance/time.  
 
 The map is a top-down view of the course.
 
-![mapzoom](https://github.com/user-attachments/assets/844961ab-02b8-488f-899b-cb72a37d71a3) **zoom in** using this button
+![mapzoom](https://github.com/user-attachments/assets/844961ab-02b8-488f-899b-cb72a37d71a3) **Zoom in** using this button
 
-![mapfullscreen](https://github.com/user-attachments/assets/67004260-33d7-4d7f-a3e5-12516236668a) **view full screen** using this button
+![mapfullscreen](https://github.com/user-attachments/assets/67004260-33d7-4d7f-a3e5-12516236668a) **View map full screen** using this button
 
-![mapzoomout](https://github.com/user-attachments/assets/c3cb2b99-3782-447b-8e34-de3ce03d1e56) **zoom out** using this button
+![mapzoomout](https://github.com/user-attachments/assets/c3cb2b99-3782-447b-8e34-de3ce03d1e56) **Zoom out** using this button
 
-![maplayers](https://github.com/user-attachments/assets/ead90ca8-d678-4d4e-ab6b-77b2d0925374) **toggle between overlays** provided by Thunderforest, OpenStreetMap, and ESRI satellite images of the area using this button
+![maplayers](https://github.com/user-attachments/assets/ead90ca8-d678-4d4e-ab6b-77b2d0925374) **Toggle between overlays** provided by Thunderforest, OpenStreetMap, and ESRI satellite images of the area using this button
 
 
 The map also contains pins for each waypoint in the table
